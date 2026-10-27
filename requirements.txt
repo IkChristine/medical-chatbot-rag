@@ -1,0 +1,16 @@
+openai
+langchain
+langchain-openai
+langchain-community
+sentence-transformers
+faiss-cpu
+datasets
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+rouge-score
+ipywidgets
+gradio
+jupyter
